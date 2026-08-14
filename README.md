@@ -64,7 +64,7 @@
 uv run fastapi dev src/
 ```
 
-启动后访问 http://127.0.0.1:8000/docs 查看 API 文档。
+启动后访问 http://127.0.0.1:8000/api/v1/docs 查看 API 文档。
 
 使用 Docker 部署：
 
